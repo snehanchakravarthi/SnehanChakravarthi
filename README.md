@@ -1,7 +1,5 @@
 Snehan Chakravarthi
 
-[![frontend](https://skillicons.dev/icons?i=react,next,threejs,nodejs,python,fastapi,postgres,blender)](https://skillicons.dev)
-
 email - snehanchakravarthi@gmail.com
 
 agency - [metroglitch.com](https://metroglitch.com)
